@@ -1,0 +1,8 @@
+C:\msys64\mingw64\bin\mingw32-make.exe all --dry-run --always-make --keep-going --print-directory
+mingw32-make: Entering directory 'c:/Users/koens/vscprojects/fo2'
+ 
+gcc -std=c++17 -Wall -o obj/test.o -c /Users/koens/vscprojects/fo2/src/test.cpp
+gcc -std=c++17 -Wall -o test obj/test.o 
+ 
+mingw32-make: Leaving directory 'c:/Users/koens/vscprojects/fo2'
+ 

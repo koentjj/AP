@@ -1,0 +1,11 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\koens\\vscprojects\\fo2",
+            "binaryPath": "c:\\Users\\koens\\vscprojects\\fo2\\test",
+            "binaryArgs": []
+        }
+    ]
+}
